@@ -29,6 +29,10 @@ We use 1 Nvidia titan xp GPU.
 sh ./tools/train_fcos_range.sh
 
 
+##Test
+sh ./tools/test.sh
+
+
 ## License
 
 For academic use, this project is licensed under the 2-clause BSD License - see the LICENSE file for details. For commercial use, please contact the authors. 
